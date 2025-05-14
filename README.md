@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Audrey, and I'm a PhD student at Michigan State University studying computational chemistry in the Wilson Group.
 <!--
 **stemenau/stemenau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
